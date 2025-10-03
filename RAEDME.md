@@ -18,3 +18,6 @@ This project analyzes global **CO₂ emissions and temperature trends (1750–20
 - Power Query
 - Data Visualization
 
+## 📥 Download full dashboard & data
+Download the Power BI file and datasets here:  
+[Climate Dashboard (PBIX + data) — Google Drive](https://drive.google.com/drive/folders/14zIQQK6nJF6TB9MvBSPgKoN-t_r18g-j?usp=sharing)
