@@ -1,15 +1,20 @@
 # Climate Change Dashboard (Power BI)
 
-Interactive Power BI dashboard showing global CO₂ emissions and temperature trends (1750–2023).
+## 📌 Overview
+This project analyzes global **CO₂ emissions and temperature trends (1750–2023)** using interactive Power BI dashboards.
 
-## Files
-- Climate_Change_Dashboard.pbix  (Power BI file)
-- data/                         (CSV datasets)
-- screenshots/                  (dashboard images)
+## 🛠 Features
+- Filled maps for global CO₂ emissions & temperature by country
+- Trend analysis (temperature vs CO₂ emissions over time)
+- Scatter chart showing correlation between emissions & temperature
+- Slicers for year & country filtering
 
-## How to open
-1. Download the repository.
-2. Open Climate_Change_Dashboard.pbix in Power BI Desktop.
-3. If asked to update data, point to the files in the data/ folder.
+## 📂 Files
+- Climate_Change_Dashboard.pbix → Power BI dashboard file
+- Screenshots → preview images of the dashboard
 
-Designed by Rasiga.
+## 📊 Tools
+- Power BI
+- Power Query
+- Data Visualization
+
